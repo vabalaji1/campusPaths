@@ -1,1 +1,1 @@
-# cmpusPaths
+# campusPaths
